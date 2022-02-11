@@ -11,6 +11,7 @@ body{
     background-image: url("/img/favpng_flat-design-landscape-mountain1.png");
     background-position: center; /* Center the image */
     background-size: cover;
+    display:none;
 }
 .head h1{
     font-size: 3.5em;
